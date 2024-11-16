@@ -1,0 +1,10 @@
+# AUD
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| AUD 236 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/AUD%20236.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/AUD%20236.png) |  |
+| AUD 263 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/AUD%20263.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/AUD%20263.png) |  |
+| AUD 276 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/AUD%20276.csv) |  |
+| AUD 284 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/AUD%20284.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/AUD%20284.png) |  |
+| AUD 291 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/AUD%20291.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/AUD%20291.png) |  |
+| AUD 296 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/AUD%20296.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/AUD%20296.png) |  |

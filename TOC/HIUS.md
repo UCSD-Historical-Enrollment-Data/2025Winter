@@ -1,0 +1,9 @@
+# HIUS
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| HIUS 108B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/HIUS%20108B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/HIUS%20108B.png) |  |
+| HIUS 133 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/HIUS%20133.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/HIUS%20133.png) |  |
+| HIUS 146 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/HIUS%20146.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/HIUS%20146.png) |  |
+| HIUS 152B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/HIUS%20152B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/HIUS%20152B.png) |  |
+| HIUS 180 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/HIUS%20180.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/HIUS%20180.png) |  |

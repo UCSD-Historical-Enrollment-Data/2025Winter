@@ -1,0 +1,11 @@
+# BIEB
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| BIEB 102 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/BIEB%20102.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/BIEB%20102.png) |  |
+| BIEB 121 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/BIEB%20121.csv) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/section/BIEB%20121_A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_section/BIEB%20121_A.png)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/section/BIEB%20121_B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_section/BIEB%20121_B.png) |
+| BIEB 134 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/BIEB%20134.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/BIEB%20134.png) |  |
+| BIEB 135 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/BIEB%20135.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/BIEB%20135.png) |  |
+| BIEB 140 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/BIEB%20140.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/BIEB%20140.png) |  |
+| BIEB 152 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/BIEB%20152.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/BIEB%20152.png) |  |
+| BIEB 156 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/BIEB%20156.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/BIEB%20156.png) |  |
