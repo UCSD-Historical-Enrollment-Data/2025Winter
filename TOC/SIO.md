@@ -23,6 +23,7 @@
 | SIO 187 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/SIO%20187.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/SIO%20187.png) |  |
 | SIO 190L | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/SIO%20190L.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/SIO%20190L.png) |  |
 | SIO 194 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/SIO%20194.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/SIO%20194.png) |  |
+| SIO 196 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/SIO%20196.csv) |  |
 | SIO 25 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/SIO%2025.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/SIO%2025.png) |  |
 | SIO 3 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/SIO%203.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/SIO%203.png) |  |
 | SIO 45 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/SIO%2045.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/SIO%2045.png) |  |

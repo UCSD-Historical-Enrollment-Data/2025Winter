@@ -61,6 +61,7 @@
 | VIS 242 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/VIS%20242.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/VIS%20242.png) |  |
 | VIS 255 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/VIS%20255.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/VIS%20255.png) |  |
 | VIS 260 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/VIS%20260.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/VIS%20260.png) |  |
+| VIS 295 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/VIS%20295.csv) |  |
 | VIS 41 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/VIS%2041.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/VIS%2041.png) |  |
 | VIS 6 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/VIS%206.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/VIS%206.png) |  |
 | VIS 60 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/VIS%2060.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/VIS%2060.png) |  |

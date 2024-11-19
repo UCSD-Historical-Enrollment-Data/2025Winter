@@ -45,6 +45,7 @@
 | CSE 222C | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/CSE%20222C.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/CSE%20222C.png) |  |
 | CSE 227 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/CSE%20227.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/CSE%20227.png) |  |
 | CSE 229A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/CSE%20229A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/CSE%20229A.png) |  |
+| CSE 229C | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/CSE%20229C.csv) |  |
 | CSE 230 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/CSE%20230.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/CSE%20230.png) |  |
 | CSE 232B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/CSE%20232B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/CSE%20232B.png) |  |
 | CSE 234 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/CSE%20234.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/CSE%20234.png) |  |
