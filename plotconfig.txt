@@ -214,7 +214,7 @@
         }
     ],
     "settings": {
-        "termName": "<TERM>",
+        "termName": "Winter 2025",
         "showTotal": True,
         "useEnrolledTtl": True,
         "useMarkers": True,

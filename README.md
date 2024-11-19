@@ -1,7 +1,7 @@
 # WI25 Enrollment Data: General Enrollment
 Enrollment data for WI25 for all undergraduate courses and select graduate courses.
 
-[Click here if you just want to be able to see each individual CSV file and graph.](https://github.com/UCSD-Historical-Enrollment-Data/WI25/blob/main/TOC.md)
+[Click here if you just want to be able to see each individual CSV file and graph.](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/TOC.md)
 
 ## Supported Courses
 | Course Level                   | Courses to be Tracked                               |
