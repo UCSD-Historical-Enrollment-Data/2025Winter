@@ -85,6 +85,7 @@
 | LATI | [LATI](TOC/LATI.md) |
 | LAWS | [LAWS](TOC/LAWS.md) |
 | LIAB | [LIAB](TOC/LIAB.md) |
+| LIDS | [LIDS](TOC/LIDS.md) |
 | LIFR | [LIFR](TOC/LIFR.md) |
 | LIGM | [LIGM](TOC/LIGM.md) |
 | LIGN | [LIGN](TOC/LIGN.md) |
