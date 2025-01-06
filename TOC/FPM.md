@@ -2,6 +2,9 @@
 
 | Course | Overall | Section |
 | ------ | ------- | ------- |
+| FPM 221 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/FPM%20221.csv) |  |
+| FPM 224 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/FPM%20224.csv) |  |
+| FPM 272 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/FPM%20272.csv) |  |
 | FPM 278 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/FPM%20278.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/FPM%20278.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall_wide/FPM%20278.png) |  |
 | FPM 286 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/FPM%20286.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/FPM%20286.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall_wide/FPM%20286.png) |  |
 | FPM 288 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/FPM%20288.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/FPM%20288.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall_wide/FPM%20288.png) |  |
