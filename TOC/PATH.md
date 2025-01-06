@@ -2,7 +2,7 @@
 
 | Course | Overall | Section |
 | ------ | ------- | ------- |
-| PATH 216 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/PATH%20216.csv) |  |
+| PATH 216 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/PATH%20216.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/PATH%20216.png) |  |
 | PATH 221 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/PATH%20221.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/PATH%20221.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall_wide/PATH%20221.png) |  |
 | PATH 224 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/PATH%20224.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/PATH%20224.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall_wide/PATH%20224.png) |  |
 | PATH 225 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Winter/blob/main/overall/PATH%20225.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall/PATH%20225.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Winter/main/plot_overall_wide/PATH%20225.png) |  |
